@@ -44,13 +44,13 @@ body {
 .dark-mode {
 	--color-text: #424242;
 	--color-bg: #101010;
-	--color-link: #bb3a3a;
+	--color-link: #dadada;
 	--color-link-hover: #fff;
 	--color-number: #484848;
-	--color-title: #bb3a3a;
+	--color-title: #dadada;
 	--color-caption: #484848;
 	--color-content: #dadada;
-	--color-content-title: #bb3a3a;
+	--color-content-title: #dadada;
 	--color-content-meta: #fff;
 }
 
